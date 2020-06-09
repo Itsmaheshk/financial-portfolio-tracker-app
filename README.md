@@ -174,7 +174,7 @@ If the user clicks on the button, the associated stock should be removed from th
 
 It will look similar to the following (Amazon Stocks is the stocks that is being removed)
 
-|Before|After clicking `Stop Tracking`|
+|Before|After clicking `Stop Tracking`
 |---|---|
 |![](https://github.com/greyatom-school/the-minerva-project/raw/master/FEWD/sprint_4/5.%20Project/Screens//US41.PNG)|![](https://github.com/greyatom-school/the-minerva-project/raw/master/FEWD/sprint_4/5.%20Project/Screens//US42.PNG)|
 
